@@ -15,3 +15,5 @@ la commande git push origin master permet dÕenvoyer le fichier local sur GitHub
 la commande git commit -m "comment" permet de valider l'envoi du fichier et de le commenter
 
 la commande git reset permet d'annuler un commit!!
+
+après la commande git config on tape --global user.email "ton adresse email" et --global user.name "ton username"
