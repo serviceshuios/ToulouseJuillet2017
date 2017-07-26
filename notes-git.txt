@@ -7,3 +7,5 @@ pour voir l'etat du repertoire, on tape git status
 la commande git add permet d'ajouter un fichier pour Github
 
 la commande git config permet de configurer le poste de travail pour Git
+
+la commande git pull origin master permet de mettre à jour mon fichier local par rapport au fichier en ligne
