@@ -9,3 +9,5 @@ la commande git add permet d'ajouter un fichier pour Github
 la commande git config permet de configurer le poste de travail pour Git
 
 la commande git pull origin master permet de mettre ‡ jour mon fichier local par rapport au fichier en ligne
+
+la commande git push origin master permet d’envoyer le fichier local sur GitHub
