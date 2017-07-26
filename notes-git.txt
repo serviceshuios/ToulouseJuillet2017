@@ -1,3 +1,5 @@
 pour initialiser un répertoire avec git, on tape la commande git init
 
 pour se connecter à GitHub, on tape git remote add origin
+
+pour voir l'état du rep, on tape $ git status
