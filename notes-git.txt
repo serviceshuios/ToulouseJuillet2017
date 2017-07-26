@@ -2,4 +2,22 @@ pour initialiser un répertoire avec git, on tape la commande git init
 
 pour se connecter à GitHub, on tape git remote add origin
 
+<<<<<<< HEAD
 pour voir l'état du rep, on tape $ git status
+=======
+pour voir l'etat du repertoire, on tape git status
+
+la commande git add permet d'ajouter un fichier pour Github
+
+la commande git config permet de configurer le poste de travail pour Git
+
+la commande git pull origin master permet de mettre à jour mon fichier local par rapport au fichier en ligne
+
+la commande git push origin master permet dÕenvoyer le fichier local sur GitHub
+
+la commande git commit -m "comment" permet de valider l'envoi du fichier et de le commenter
+
+la commande git reset permet d'annuler un commit!!
+
+après la commande git config on tape --global user.email "ton adresse email" et --global user.name "ton username"
+>>>>>>> e485044c086dbc800f8a059809a9f5309fdac633
