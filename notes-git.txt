@@ -21,3 +21,5 @@ la commande git reset permet d'annuler un commit!!
 
 après la commande git config on tape --global user.email "ton adresse email" et --global user.name "ton username"
 >>>>>>> e485044c086dbc800f8a059809a9f5309fdac633
+
+richard
