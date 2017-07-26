@@ -5,3 +5,5 @@ pour se connecter à GitHub, on tape git remote add origin
 pour voir l'etat du repertoire, on tape git status
 
 la commande git add permet d'ajouter un fichier pour Github
+
+la commande git config permet de configurer le poste de travail pour Git
